@@ -44,10 +44,11 @@ result = factorial(number)
 puts "The factorial of #{number} is #{result}."
 ```
 
-- Make note of where the backtick button is located.
-- It should appear above the tab key, but it may vary based on your keyboard layout.
+- Make note of where the backtick keyboard key is located.
+- It should appear above the tab key.
+- But it may vary based on your keyboard layout.
 
-<img width="200px" src="https://github.com/FOdeks/github-docs-example/assets/99102643/1801b1dd-98ca-4e03-b1fc-09b0dc620b26" />
+<img width="200px" src="assets/backtick_key.jpg" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -68,6 +69,14 @@ rescue NameError => e
 end
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+![a photo with your phone](assets/phone_photo.jpg)
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
 
@@ -90,7 +99,13 @@ You can use the following Markdown format to create tables
 ```
 GitHub extends the functionality of Markdown tables to provide more alignments and and table call formatting options.[<sup>[2]</sup>](#external-references)
 
-![Photo of the Pipe key on the keyboard](assets/pipe_key.jpg)
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key.
+- But it may vary based on your keyboard layout.
+
+<img width="200px" src="assets/pipe_key.jpg" />
+
+
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
