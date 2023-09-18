@@ -94,8 +94,8 @@ You can use the following Markdown format to create tables
 ```md
 | Name | Shortcode | Emoji |
 | --- | --- | --|
-| Cloud | `:cloud:` | :cloud |
-| Cloud with lightning | `:cloud_with_lightning:` | :cloud_with_lightning |
+| Cloud | `:cloud:` | ☁️ |
+| Cloud with lightning | `:cloud_with_lightning:` | 🌩️ |
 ```
 GitHub extends the functionality of Markdown tables to provide more alignments and and table call formatting options.[<sup>[2]</sup>](#external-references)
 
