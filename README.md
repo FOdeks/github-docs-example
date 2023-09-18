@@ -70,6 +70,9 @@ end
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can, always provide a codeblock instead of a screenshot.
+If you need to take ascreenshot, make sure it is not from your phone.
+
 ## Step 2 - How to take Screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
