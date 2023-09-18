@@ -71,7 +71,9 @@ end
 > Here is an example of using a codeblock for an error that appears in bash.
 
 When you can, always provide a codeblock instead of a screenshot.
-If you need to take ascreenshot, make sure it is not from your phone.
+If you need to take a screenshot, make sure it is not from your phone.
+
+> There are certain cases where it is okay to take photos with your phone. This is when you are showing a keyboard which does not appear on your computer screen. If it is rendered on your computer screen, it should be a screenshot.
 
 ## Step 2 - How to take Screenshots
 
