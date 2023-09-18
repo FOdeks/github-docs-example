@@ -90,7 +90,7 @@ You can use the following Markdown format to create tables
 ```
 GitHub extends the functionality of Markdown tables to provide more alignments and and table call formatting options.[<sup>[2]</sup>](#external-references)
 
-![Photo of the Pipe key on the keyboard](assets/pipe)
+![Photo of the Pipe key on the keyboard](assets/pipe_key.jpg)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
